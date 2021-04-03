@@ -60,4 +60,5 @@ https://www.vhv.rs/userpic/4409/
 
 ## 📝 License
 
-MIT
+ Developing
+This project is [MIT](MIT.md) licensed.
